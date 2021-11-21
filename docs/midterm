@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Midterm presentation</title>
+     <style type="text/css">
+     	 h1 {border-style: dashed;
+     	     font-size: 50px;
+     	     font-family: Lucida Sans Unicode;
+     	     color:#F4A460 ;}
+           h2{font-size: 30px;}
+           p{font-size: 20px;}
+           ul{font-size: 20px}
+           body {background:LightCyan;}
+           .flex-container {display: flex;
+                            background-color: #FFE4C4;
+                            border-radius: 20px;}
+           .flex-container > div {background-color: AliceBlue;
+                                  border: 2px solid dimgray;
+                                  border-radius: 20px;
+                                  padding: 10px;}
+     </style>
+</head>
+<body>
+<center><h1>My hometown-Taichung</h1></center>
+<div class="flex-container">
+ <div><a href="./FOOD.html">FOOD</a></div>  
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp 
+ <a href="Food.html#FOOD"></a>
+<div><a href="./Attractions.html">ATTRACTIONS</a></div>
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp 
+ <div><a href="NIGHT MARKET.html">NIGHT MARKET</a></div>
+</div>
+<h2>Geography</h2>
+<p>Taichung City is located in the Taichung Basin along the main western coastal plain that stretches along the west coast from northern Taiwan almost to the southern tip. </p>
+<h2>Climate</h2>
+<p>Taichung has a warm humid subtropical climate bordering on a tropical monsoon climate.</p>
+<p>Due to the protection provided by the Central Mountain Range to the east and the Miaoli hills to the north, Taichung is rarely severely affected by typhoons.</p>
+<h2>Transportation</h2>
+<ul>
+<li>Rail</li>
+<li>Seaport</li>
+<li>Roads</li>
+<li>Bus</li>
+<li>Mass Rapid Transit</li>
+<li>International Airport</li>
+</ul>
+</body>
+</html>
